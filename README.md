@@ -1,4 +1,4 @@
-# Python Developer Journey
+# Python & Django Developer + Ethical Hacker Journey
 
 ## Skills Learning
 - Python
